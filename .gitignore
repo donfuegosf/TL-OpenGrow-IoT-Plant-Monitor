@@ -9,3 +9,7 @@
 /stm32_rtos/stm32_plant_monitor/Debug
 /stm32_rtos/stm32_plant_monitor/Release
 /opengrow_schematic
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
